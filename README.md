@@ -1,7 +1,7 @@
 -  Hi, I’m @Programmer061703
 -  I’m interested in Investing and Machine Learning
 -  I’m currently studying Artificial Inteligence
--  The best way to reach me is via Email williamscorp00@gmail.com
+-  The best way to reach me is via Email brw061703@gmail.com
 -  I am currently developing The Peoples Trader (Email me for more information) 
 
 <!---
