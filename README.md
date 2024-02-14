@@ -1,6 +1,5 @@
 -  Hi, I’m @Programmer061703
--  I’m interested in Investing and Machine Learning
--  I’m currently studying Artificial Inteligence
+-  I’m interested in Machine Learning and Low Level Systems
 -  The best way to reach me is via Email brw061703@gmail.com
 
 
